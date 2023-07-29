@@ -1,3 +1,5 @@
+Team name: The Hunters
+
 # Cassava-Disease-Clasification-Challenge
 In this project, we design multiples models to classify cassava leaf disease
 
@@ -12,6 +14,6 @@ We started with a simple CNN model, before moving to pretrained models including
 
 We obtained an accuracy of 91.34% on the private leaderboard and occupied the 2nd position.
 
-The project was done in collaboration with 
+The project was done in collaboration with [Binta Sow](https://github.com/BintaSOW1)
 
 This [link](https://www.kaggle.com/competitions/ammi-2023-convnets/overview) brings you to the Hackathon website on kaggle.
